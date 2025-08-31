@@ -1,0 +1,2 @@
+# UDS-over-CAN---ECU-Diagnostic-Simulation-with-Test-Cases
+This project simulates Unified Diagnostic Services (UDS) communication over the CAN protocol, focusing on ECU diagnostics. It provides a learning-oriented environment where UDS requests are sent to a simulated ECU, and responses are validated against expected outputs. The project also includes test cases to verify different diagnostic services
